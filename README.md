@@ -7,7 +7,8 @@ Coding
 💬 LinkedIn https://www.linkedin.com/in/deepali-arora/
 
 Languages and Tools:
-aws azure git hive linux mysql pandas postgresql python spark dbt snowflake databricks
+https://aws.amazon.com/
+
 
 <!--
 Here are some ideas to get you started:

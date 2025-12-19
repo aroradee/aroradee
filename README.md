@@ -9,7 +9,7 @@ Coding
 Languages and Tools:
 aws azure git hive linux mysql pandas postgresql python spark dbt snowflake databricks
 
--->
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
